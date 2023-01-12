@@ -1,0 +1,155 @@
+region,median_salary,num,Region_en,NAME_1
+Российская Федерация ,62199.7,0,,
+Белгородская область,46406.6,31,Belgorod region,Belgorod
+Брянская область,39434.4,32,Bryansk region,Bryansk
+Владимирская область,44136.4,33,Vladimir region,Vladimir
+Воронежская область,45142.4,36,Voronezh region,Voronezh
+Воронежская область,45142.4,136,Voronezh region,Voronezh
+Ивановская область,35001.7,37,Ivanovo region,Ivanovo
+Калужская область,51426.1,40,Kaluga region,Kaluga
+Костромская область,38882.9,44,Kostroma region,Kostroma
+Курская область,44339.1,46,Kursk region,Kursk
+Липецкая область,44151.6,48,Lipetsk region,Lipetsk
+Московская область,67525.6,50,Moscow region,Moskva
+Московская область,67525.6,90,Moscow region,Moskva
+Московская область,67525.6,150,Moscow region,Moskva
+Московская область,67525.6,190,Moscow region,Moskva
+Московская область,67525.6,750,Moscow region,Moskva
+Московская область,67525.6,790,Moscow region,Moskva
+Орловская область,38743.3,57,Oryol Region,Orel
+Рязанская область,44064.9,62,Ryazan Oblast,Ryazan'
+Смоленская область,39654.8,67,Smolensk region,Smolensk
+Тамбовская область,36646.3,68,Tambov Region,Tambov
+Тверская область,43422.3,69,Tver region,Tver'
+Тульская область,47964.0,71,Tula region,Tula
+Ярославская область,45232.0,76,Yaroslavl region,Yaroslavl'
+Москва,114700.7,77,Moscow,Moscow City
+Москва,114700.7,97,Moscow,Moscow City
+Москва,114700.7,99,Moscow,Moscow City
+Москва,114700.7,177,Moscow,Moscow City
+Москва,114700.7,197,Moscow,Moscow City
+Москва,114700.7,199,Moscow,Moscow City
+Москва,114700.7,777,Moscow,Moscow City
+Москва,114700.7,797,Moscow,Moscow City
+Москва,114700.7,799,Moscow,Moscow City
+Москва,114700.7,977,Moscow,Moscow City
+Республика Карелия,52995.7,10,The Republic of Karelia,Karelia
+Республика Коми,66929.7,11,Komi Republic,Komi
+Республика Коми,66929.7,111,Komi Republic,Komi
+Архангельская область,61859.8,29,Arkhangelsk region,Arkhangel'sk
+Ненецкий автономный округ,100573.2,83,Nenets Autonomous Okrug,Nenets
+Вологодская область,51407.1,35,Vologda Region,Vologda
+Калининградская область,45275.6,39,Kaliningrad region,Kaliningrad
+Калининградская область,45275.6,91,Kaliningrad region,Kaliningrad
+Ленинградская область,56917.9,47,Leningrad region,Leningrad
+Ленинградская область,56917.9,147,Leningrad region,Leningrad
+Мурманская область,83080.8,51,Murmansk region,Murmansk
+Новгородская область,45025.7,53,Novgorod region,Novgorod
+Псковская область,37676.4,60,Pskov region,Pskov
+Санкт-Петербург,80769.8,78,St. Petersburg,City of St. Petersburg
+Санкт-Петербург,80769.8,98,St. Petersburg,City of St. Petersburg
+Санкт-Петербург,80769.8,178,St. Petersburg,City of St. Petersburg
+Санкт-Петербург,80769.8,198,St. Petersburg,City of St. Petersburg
+Республика Адыгея,38435.1,1,Republic of Adygea,Adygey
+Республика Адыгея,38435.1,101,Republic of Adygea,Adygey
+Республика Калмыкия,34147.1,8,Republic of Kalmykia,Kalmyk
+Республика Крым,39619.0,82,Republic of Crimea,Crimea
+Краснодарский край,47231.8,23,Krasnodar region,Krasnodar
+Краснодарский край,47231.8,93,Krasnodar region,Krasnodar
+Краснодарский край,47231.8,123,Krasnodar region,Krasnodar
+Краснодарский край,47231.8,193,Krasnodar region,Krasnodar
+Астраханская область,44631.8,30,Astrakhan region,Astrakhan'
+Астраханская область,44631.8,130,Astrakhan region,Astrakhan'
+Волгоградская область,41231.5,34,Volgograd region,Volgograd
+Волгоградская область,41231.5,134,Volgograd region,Volgograd
+Ростовская область,43312.9,61,Rostov region,Rostov
+Ростовская область,43312.9,161,Rostov region,Rostov
+Ростовская область,43312.9,761,Rostov region,Rostov
+Севастополь,39501.5,92,Sevastopol,Sevastopol'
+Республика Дагестан,33081.0,5,The Republic of Dagestan,Dagestan
+Республика Ингушетия,31348.6,6,The Republic of Ingushetia,Ingush
+Кабардино-Балкарская Республика,32072.7,7,Kabardino-Balkar Republic,Kabardin-Balkar
+Карачаево-Черкесская Республика,34643.9,9,Karachay-Cherkess Republic,Karachay-Cherkess
+Карачаево-Черкесская Республика,34643.9,109,Karachay-Cherkess Republic,Karachay-Cherkess
+Республика Северная Осетия — Алания,34274.9,15,Republic of North Ossetia - Alania,North Ossetia
+Чеченская Республика,32940.5,20,Chechen Republic,Chechnya
+Чеченская Республика,32940.5,95,Chechen Republic,Chechnya
+Ставропольский край,39718.1,26,Stavropol region,Stavropol'
+Ставропольский край,39718.1,126,Stavropol region,Stavropol'
+Республика Башкортостан,47524.2,2,Republic of Bashkortostan,Bashkortostan
+Республика Башкортостан,47524.2,102,Republic of Bashkortostan,Bashkortostan
+Республика Башкортостан,47524.2,702,Republic of Bashkortostan,Bashkortostan
+Республика Марий Эл,38299.8,12,Mari El Republic,Mariy-El
+Республика Мордовия,38604.0,13,The Republic of Mordovia,Mordovia
+Республика Мордовия,38604.0,113,The Republic of Mordovia,Mordovia
+Республика Татарстан,50580.2,16,Republic of Tatarstan,Tatarstan
+Республика Татарстан,50580.2,116,Republic of Tatarstan,Tatarstan
+Республика Татарстан,50580.2,716,Republic of Tatarstan,Tatarstan
+Удмуртская Республика,44172.5,18,Udmurt republic,Udmurt
+Удмуртская Республика,44172.5,118,Udmurt republic,Udmurt
+Чувашская Республика,39528.0,21,Chuvash Republic,Chuvash
+Чувашская Республика,39528.0,121,Chuvash Republic,Chuvash
+Пермский край,49626.2,59,Perm,Perm'
+Пермский край,49626.2,81,Perm,Perm'
+Пермский край,49626.2,159,Perm,Perm'
+Кировская область,39422.9,43,Kirov region,Kirov
+Нижегородская область,44097.2,52,Nizhny Novgorod Region,Nizhegorod
+Нижегородская область,44097.2,152,Nizhny Novgorod Region,Nizhegorod
+Нижегородская область,44097.2,752,Nizhny Novgorod Region,Nizhegorod
+Оренбургская область,42599.5,56,Orenburg region,Orenburg
+Оренбургская область,42599.5,156,Orenburg region,Orenburg
+Пензенская область,40278.6,58,Penza region,Penza
+Пензенская область,40278.6,158,Penza region,Penza
+Самарская область,46584.5,63,Samara Region,Samara
+Самарская область,46584.5,163,Samara Region,Samara
+Самарская область,46584.5,763,Samara Region,Samara
+Саратовская область,41183.1,64,Saratov region,Saratov
+Саратовская область,41183.1,164,Saratov region,Saratov
+Ульяновская область,39983.5,73,Ulyanovsk region,Ul'yanovsk
+Ульяновская область,39983.5,173,Ulyanovsk region,Ul'yanovsk
+Курганская область,38950.3,45,Kurgan region,Kurgan
+Свердловская область,53706.3,66,Sverdlovsk region,Sverdlovsk
+Свердловская область,53706.3,96,Sverdlovsk region,Sverdlovsk
+Свердловская область,53706.3,196,Sverdlovsk region,Sverdlovsk
+Тюменская область,59702.5,72,Tyumen region,Tyumen'
+Тюменская область,59702.5,172,Tyumen region,Tyumen'
+Ханты-Мансийский автономный округ — Югра,94812.6,86,Khanty-Mansiysk,Khanty-Mansiy
+Ханты-Мансийский автономный округ — Югра,94812.6,186,Khanty-Mansiysk,Khanty-Mansiy
+Ямало-Ненецкий автономный округ,130037.6,89,Yamalo-Nenets Autonomous Okrug,Yamal-Nenets
+Челябинская область,48250.9,74,Chelyabinsk region,Chelyabinsk
+Челябинская область,48250.9,174,Chelyabinsk region,Chelyabinsk
+Челябинская область,48250.9,774,Chelyabinsk region,Chelyabinsk
+Республика Алтай,40449.0,4,Altai Republic,Gorno-Altay
+Республика Тыва,48491.7,17,Tyva Republic,Tuva
+Республика Хакасия,52086.9,19,The Republic of Khakassia,Khakass
+Алтайский край,36244.3,22,Altai region,Altay
+Алтайский край,36244.3,122,Altai region,Altay
+Красноярский край,68334.9,24,Krasnoyarsk region,Krasnoyarsk
+Красноярский край,68334.9,84,Krasnoyarsk region,Krasnoyarsk
+Красноярский край,68334.9,88,Krasnoyarsk region,Krasnoyarsk
+Красноярский край,68334.9,124,Krasnoyarsk region,Krasnoyarsk
+Иркутская область,61912.1,38,Irkutsk region,Irkutsk
+Иркутская область,61912.1,85,Irkutsk region,Irkutsk
+Иркутская область,61912.1,138,Irkutsk region,Irkutsk
+Кемеровская область,55538.5,42,Kemerovo region,Kemerovo
+Кемеровская область,55538.5,142,Kemerovo region,Kemerovo
+Новосибирская область,50292.8,54,Novosibirsk region,Novosibirsk
+Новосибирская область,50292.8,154,Novosibirsk region,Novosibirsk
+Новосибирская область,50292.8,754,Novosibirsk region,Novosibirsk
+Омская область,44670.5,55,Omsk region,Omsk
+Омская область,44670.5,155,Omsk region,Omsk
+Томская область,54926.8,70,Tomsk region,Tomsk
+Республика Бурятия,50236.1,3,The Republic of Buryatia,Buryat
+Республика Бурятия,50236.1,103,The Republic of Buryatia,Buryat
+Республика Саха (Якутия),92318.7,14,The Republic of Sakha (Yakutia),Sakha
+Забайкальский край,57036.4,75,Zabaykalsky Krai,Zabaikalskiy Krai
+Забайкальский край,57036.4,80,Zabaykalsky Krai,Zabaikalskiy Krai
+Камчатский край,91577.8,41,Kamchatka Krai,Kamchatka
+Приморский край,59689.6,25,Primorsky Krai,Primor'ye
+Приморский край,59689.6,125,Primorsky Krai,Primor'ye
+Хабаровский край,62201.7,27,Khabarovsk region,Khabarovsk
+Амурская область,63730.8,28,Amurskaya Oblast,Amur
+Магаданская область,115585.7,49,Magadan Region,Maga Buryatdan
+Сахалинская область,102796.8,65,Sakhalin region,Sakhalin
+Еврейская автономная область,54263.7,79,Jewish Autonomous Region,Yevrey
+Чукотский автономный округ,136166.9,87,Chukotka Autonomous Okrug,Chukot
